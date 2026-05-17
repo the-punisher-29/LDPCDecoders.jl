@@ -3,6 +3,9 @@
 ## v0.3.4 - dev
 
 - bump julia compat to 1.12
+- Set up Documenter.jl docs page with API reference and decoder guides
+- Add docstrings to all public types and methods
+- Fix pre-existing docstring bugs (broken code blocks, undefined variables)
 
 ## v0.3.3 - 2025-04-15
 
